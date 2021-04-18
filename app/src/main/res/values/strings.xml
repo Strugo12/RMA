@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FamousAthletes</string>
+    <string name="messi">Messi is playing in Barcelona</string>
+    <string name="diegomaradona">Maradona played in Argentina</string>
+    <string name="ronaldo">Ronaldo is from Portugal</string>
+</resources>
