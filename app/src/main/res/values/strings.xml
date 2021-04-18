@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lv2</string>
+    <string name="btnStart2ndActivityText">Start 2nd Activity</string>
+</resources>
